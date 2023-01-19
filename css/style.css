@@ -1,0 +1,7 @@
+.bg {
+  background-image: url(../img/bg;png.jpg);
+}
+.card-img img {
+  position: relative;
+  top: 25px;
+}
