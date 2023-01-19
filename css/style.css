@@ -5,3 +5,14 @@
   position: relative;
   top: 25px;
 }
+/* bootstrap footer */
+.container {
+  background-color: #120e43;
+}
+hr {
+  margin: 1rem 0;
+  color: inherit;
+  border: 0;
+  border-top: 3px solid #ffffff;
+  opacity: 0.25;
+}
